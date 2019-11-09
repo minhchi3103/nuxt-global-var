@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-global-var",
+  "version": "1.0.0",
+  "description": "if you have some variables that are the same in all languages or you want to define variables by using json instead of .env, let's use this package!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "nuxt-i18n",
+    "nuxt",
+    "nuxtjs",
+    "vue",
+    "vuejs",
+    "global",
+    "language"
+  ],
+  "author": "shinryak",
+  "license": "MIT"
+}
