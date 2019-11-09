@@ -1,6 +1,6 @@
 {
   "name": "nuxt-global-var",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "if you have some variables that are the same in all languages or you want to define variables by using json instead of .env, let's use this package!",
   "main": "main.js",
   "scripts": {
