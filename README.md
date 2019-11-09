@@ -1,9 +1,9 @@
 # nuxt-global-var
 A module for nuxtjs that make defining and using variables in component easier by using js object or json file.
 ### How to use
-####Install
+#### Install
 `npm install nuxt-global-var`
-####Basic usage
+#### Basic usage
 Firstly, you need to add `nuxt-global-var` to your Nuxt config.
 ```javascript
 // nuxt.config.js
@@ -30,5 +30,5 @@ Now, you can use `nuxt-global-var` in your component
 	</p>
 </templete>
 ```
-###Licence
+### Licence
 [MIT License](https://github.com/minhchi3103/nuxt-global-var/blob/master/LICENSE "MIT License")
