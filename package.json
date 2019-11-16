@@ -1,6 +1,6 @@
 {
   "name": "nuxt-global-var",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "if you have some variables that are the same in all languages or you want to define variables by using json instead of .env, let's use this package!",
   "main": "main.js",
   "scripts": {
@@ -17,5 +17,13 @@
     "language"
   ],
   "author": "shinryak",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhchi3103/nuxt-global-var.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minhchi3103/nuxt-global-var/issues"
+  },
+  "homepage": "https://github.com/minhchi3103/nuxt-global-var#readme"
 }
