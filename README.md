@@ -2,7 +2,10 @@
 A module for nuxtjs that make defining and using variables in component easier by using js object or json file.
 ### How to use
 #### Install
-`npm install nuxt-global-var`
+With NPM  
+`npm install nuxt-global-var`  
+With Yarn  
+`yarn add nuxt-global-var`  
 #### Basic usage
 Firstly, you need to add `nuxt-global-var` to your Nuxt config.
 ```javascript
@@ -19,6 +22,7 @@ Firstly, you need to add `nuxt-global-var` to your Nuxt config.
   ]
 }
 ```
+If you defined variables in json, please replace `{HOST: 'shinryak.site'}` with `require("path\to\file.json")`
 Now, you can use `nuxt-global-var` in your component
 ```html
 <templete>
